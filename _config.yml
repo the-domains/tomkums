@@ -1,7 +1,7 @@
 name: tomkums
 favicon: null
-layout_spectrum: 0.4394786807242781
-typography_spectrum: 0.4963482606690377
+layout_spectrum: 0.23657
+typography_spectrum: 0.30244
 title: Tom Kums
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#0d0d0d'
+    - '#ffffff'
+    - '#5b5b5b'
+    - '#929292'
+    - '#b5b5b5'
   brandStrength: 0.7048176168464124
   lightness: 0.012132702860981226
   saturation: 0.8614909921307117
